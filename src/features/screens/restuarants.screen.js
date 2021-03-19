@@ -16,6 +16,7 @@ export const RestuarantScreen = () => {
     );
 };
 
+
 const styles = StyleSheet.create({
     container: {
       marginTop: StatusBar.currentHeight,
